@@ -1,0 +1,1 @@
+Ich arbeite eigentlich mit Markdown in Obsidian und hab erstmal nur grob mit LLMs in LaTex konvertiert.
